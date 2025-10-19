@@ -1,6 +1,8 @@
 # Tuna-Canning Process and Quality Control 
 Explains how canned tuna is made and how its quality is controlled , describes the main steps : starting from receiving the fresh fish, cooking, cleaning, filling.the cans, sealing, sterilizing, and storing . Also shows how temperature and hygiene are monitored to ensure the final product is safe and of good quality.
 
+![Tuna Banner](https://github.com/benchelefweam00/Tuna-Canning-Process-and-Quality-Control-/blob/main/photo_6028492066503379091_y.jpg?raw=true)
+
 ## Collaborators:(grp1)
 Ben chelef Weam /
 Tlidjani Khadidja /
